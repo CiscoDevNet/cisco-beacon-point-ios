@@ -1,0 +1,7 @@
+build
+Pods
+
+MistLockScreen/MistLockScreen.xcodeproj/xcuserdata/nirmalajayaraman.xcuserdatad/xcschemes/xcschememanagement.plist
+
+*.xcuserstate
+Sample-iOS/MistSDK.framework

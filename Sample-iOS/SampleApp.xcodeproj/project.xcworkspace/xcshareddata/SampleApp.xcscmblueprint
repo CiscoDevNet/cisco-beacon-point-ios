@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2320BC194CDD9FE62A0DB51B558F3516B2751144",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3CD46385D3A81843035DD666350C99D9D5103695" : 0,
+    "2320BC194CDD9FE62A0DB51B558F3516B2751144" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F94D5D07-07B9-435D-A3F8-7763E712626C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3CD46385D3A81843035DD666350C99D9D5103695" : "",
+    "2320BC194CDD9FE62A0DB51B558F3516B2751144" : "Sample-iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SampleApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SampleApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/entappiainc\/sample-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2320BC194CDD9FE62A0DB51B558F3516B2751144"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mistsys\/mist-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3CD46385D3A81843035DD666350C99D9D5103695"
+    }
+  ]
+}
